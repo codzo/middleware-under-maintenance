@@ -1,2 +1,4 @@
-maintenance.status=false
-maintenance.redirect.url=/under-maintenance
+; to protect app in maintenance mode, config as following
+; Note any other status value will not turn on maintenance protection
+unermaintenance.status=active
+unermaintenance.redirect.url=/under-maintenance
