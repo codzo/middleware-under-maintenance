@@ -4,6 +4,7 @@
     "description": "Slim 4 Middleware for Maintenance Mode",
     "keywords": ["codzo", "slim", "middleware", "maintenance"],
     "minimum-stability": "dev",
+    "license": "MIT",
     "prefer-stable": true,
     "authors": [
         {
